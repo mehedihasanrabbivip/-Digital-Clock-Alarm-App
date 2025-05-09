@@ -12,11 +12,11 @@ A simple yet functional Digital Clock with an Alarm feature built using HTML, CS
 
 ## 📸 Preview
 
-![Digital Clock Screenshot](screenshot.png)
+![Digital Clock Screenshot](Clock.png)
 
 ## 🚀 Live Demo
 
-[View Live](https://your-live-link.com)
+[View Live](https://mehedihasanrabbivip.github.io/-Digital-Clock-Alarm-App/)
 
 ## 🛠️ Tech Stack
 
@@ -54,4 +54,4 @@ digital-clock-alarm/
 
 ## ✨ Author
 
-Made with ❤️ by [mhrx](https://github.com/yourusername)
+Made with ❤️ by [mhrx](https://github.com/mehedihasanrabbivip)
